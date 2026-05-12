@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Notion for macOS automation with Notion for macOS updated Automation - note encryption and database templates. Featuring note encryption and database templates,
 
 
 
